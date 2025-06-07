@@ -23,6 +23,8 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 * [Enlace al Repositorio del Juego 1](https://github.com/TuUsuario/NombreDeTuJuego1)
 * [🎮 ¡Juega aquí en Itch.io!](https://miguelbenavides.itch.io/prototype-2)
 
+![{C272649F-FA41-4E0E-80B7-792893A84350}](https://github.com/user-attachments/assets/2284f227-bb3f-4473-a36b-b4737c994471)
+
 
 ### 🕹️ [Futbolito]
 * **Descripción:** Un pequeño prototipo de futbolito en cual eres el balon. En este proyecto aprendi mas sobre las fisicas, aplicar powerups y organizacion de scripts.
@@ -31,6 +33,7 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 * [Enlace al Repositorio del Juego 2](https://github.com/TuUsuario/NombreDeTuJuego2)
 * [🎮 ¡Juega aquí en Itch.io!](https://miguelbenavides.itch.io/prototype-4)
 
+![{5BC613B1-9F86-4E6A-8141-C0795D71CB47}](https://github.com/user-attachments/assets/2f9921d1-118b-4b35-bb95-f18587eb10b1)
 
 ---
 

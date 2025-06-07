@@ -38,17 +38,18 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 ---
 
 ## Habilidades Técnicas 🚀
-* **Lenguajes:** C#, Python.
-* **Motores de Juego:** Unity (Intermedio).
-* **Control de Versiones:** Git, GitHub.
+* **Lenguajes:** ![Static Badge](https://img.shields.io/badge/%23-yellow?logo=C&logoColor=black)
+, ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow).
+* **Motores de Juego:** ![Static Badge](https://img.shields.io/badge/Unity-Intermedio-blue?logo=Unity&logoColor=black).
+* **Control de Versiones:** ![Static Badge](https://img.shields.io/badge/Git-yellow?logo=Git&logoColor=black), ![Static Badge](https://img.shields.io/badge/Github-blue?logo=Github&logoColor=black)
 * **Conceptos de Programación:** Programación Orientada a Objetos (POO), Estructuras de Datos, Algoritmos básicos.
 * **Otros:** Depuración, Optimización básica, UI/UX en Unity.
 
 ---
 
 ## Conéctate Conmigo 📧
-* **LinkedIn:** [www.linkedin.com/in/miguel-benavides-lindao-game-dev)
-* **Itch.io:** [https://miguelbenavides.itch.io/)
-* **Correo Electrónico:** [miguelesteban95@hotmail.com](miguelestebanbl95@gmail.com)
+* *![Static Badge](https://img.shields.io/badge/Linkedin-blue)** [www.linkedin.com/in/miguel-benavides-lindao-game-dev)
+* **![Static Badge](https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=orange)** [https://miguelbenavides.itch.io/)
+* **![Static Badge](https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=red)** [miguelestebanbl95@gmail.com](miguelestebanbl95@gmail.com)
 
 ¡Gracias por visitar mi portafolio!

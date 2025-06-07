@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**MiguelBenavidesL/MiguelBenavidesL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-¡Hola! Soy Miguel Benavides, un Desarrollador de Juegos Junior en Unity 👋
+![Black and Purple Gradient Neon Futuristic Technology LinkedIn Banner](https://github.com/user-attachments/assets/9a47ac10-920d-4310-aecd-8f96c7c681a1)
+
+
+#¡Hola! Soy Miguel Benavides, un Desarrollador de Juegos Junior en Unity 👋
 
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador de juegos con pasión por crear experiencias interactivas y resolver problemas complejos con código. Me especializo en **Unity** y **C#**, y disfruto construyendo sistemas de juego, prototipos y puliendo la jugabilidad.
 

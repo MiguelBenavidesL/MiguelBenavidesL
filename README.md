@@ -1,6 +1,3 @@
-
-![Black and Purple Gradient Neon Futuristic Technology LinkedIn Banner](https://github.com/user-attachments/assets/9a47ac10-920d-4310-aecd-8f96c7c681a1)
-
 ## ¡Hola! Soy Miguel Benavides, Desarrollador de Juegos Junior en Unity 👋
 
 <p align="center">
@@ -9,7 +6,7 @@
 
 ## Acerca de mí 🎮✨
 
-¡Bienvenido a mi rincón digital! Soy **Miguel Benavides**, un **desarrollador de juegos junior** con una pasión inmensa por dar vida a ideas creativas a través del código. Desde que era pequeño, los videojuegos han sido una fuente de inspiración constante, mi objetivo es contribuir a ese mundo mágico.
+¡Bienvenido a mi rincón digital! Soy **Miguel Benavides**, un **desarrollador de juegos junior** con una pasión inmensa por dar vida a ideas creativas a través del código. Desde que era pequeño, los videojuegos han sido una fuente de inspiración constante, y ahora, mi objetivo es contribuir activamente a la creación de ese mundo mágico.
 
 Mi viaje en el desarrollo de juegos se centra principalmente en **Unity** y **C#**, donde disfruto explorando y construyendo sistemas de juego robustos y mecánicas divertidas. Me encanta el desafío de **resolver problemas complejos**, optimizar el rendimiento y ver cómo las piezas del código se unen para crear una experiencia fluida y envolvente.
 
@@ -44,7 +41,7 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 
 
 
-### 🎮 [Stampede]
+### 🫎 [Stampede]
 * **Descripción:** Un prototipo en el cual intentas esquivar y alimentar animales los mas rapido posible. Este proyecto me permitió profundizar en La diferentes formas de spawnear GameObjects, desde los animales hasta los projectiles (zanahorias) ademas de "destruir" los GameObjects para evitar sobrecargar el sistema.
 * **Tecnologías:** Unity, C#.
 * **Mi Rol:** Programador principal.
@@ -54,7 +51,7 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 ![{C272649F-FA41-4E0E-80B7-792893A84350}](https://github.com/user-attachments/assets/2284f227-bb3f-4473-a36b-b4737c994471)
 
 
-### 🕹️ [Futbolito]
+### ⚽ [Futbolito]
 * **Descripción:** Un pequeño prototipo de futbolito en cual eres el balon. En este proyecto aprendi mas sobre las fisicas, aplicar powerups y organizacion de scripts.
 * **Tecnologías:** Unity, C#.
 * **Mi Rol:** Programador de gameplay (movimiento de personaje, sistema de power-ups).
@@ -67,7 +64,7 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 
 ## Habilidades Técnicas 🚀
 * **Lenguajes:** ![Static Badge](https://img.shields.io/badge/%23-yellow?logo=C&logoColor=black)
-, ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow).
+, ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54).
 * **Motores de Juego:** ![Static Badge](https://img.shields.io/badge/Unity-Intermedio-blue?logo=Unity&logoColor=black).
 * **Control de Versiones:** ![Static Badge](https://img.shields.io/badge/Git-yellow?logo=Git&logoColor=black), ![Static Badge](https://img.shields.io/badge/Github-blue?logo=Github&logoColor=black)
 * **Conceptos de Programación:** Programación Orientada a Objetos (POO), Estructuras de Datos, Algoritmos básicos.
@@ -76,8 +73,8 @@ Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada rep
 ---
 
 ## Conéctate Conmigo 📧
-* *![Static Badge](https://img.shields.io/badge/Linkedin-blue)** [www.linkedin.com/in/miguel-benavides-lindao-game-dev)
-* **![Static Badge](https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=orange)** [https://miguelbenavides.itch.io/)
-* **![Static Badge](https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=red)** [miguelestebanbl95@gmail.com](miguelestebanbl95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-benavides-lindao-game-dev)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://miguelbenavides.itch.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelestebanbl95@gmail.com)
 
 ¡Gracias por visitar mi portafolio!

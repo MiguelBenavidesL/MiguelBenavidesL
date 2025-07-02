@@ -1,20 +1,48 @@
-## Hi there 👋
-
 
 ![Black and Purple Gradient Neon Futuristic Technology LinkedIn Banner](https://github.com/user-attachments/assets/9a47ac10-920d-4310-aecd-8f96c7c681a1)
 
+## ¡Hola! Soy Miguel Benavides, Desarrollador de Juegos Junior en Unity 👋
 
-#¡Hola! Soy Miguel Benavides, un Desarrollador de Juegos Junior en Unity 👋
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZmcHRwZjQ1dHQ5aDkyOWhiejhtNGZ5bzg0ajBoNW5ocnoxNGltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKrbXUnCJkzAWu4/giphy.gif" alt="Animación de un personaje de videojuego saludando" width="200"/>
+</p>
 
-¡Bienvenido a mi espacio en GitHub! Soy un desarrollador de juegos con pasión por crear experiencias interactivas y resolver problemas complejos con código. Me especializo en **Unity** y **C#**, y disfruto construyendo sistemas de juego, prototipos y puliendo la jugabilidad.
+## Acerca de mí 🎮✨
 
-Actualmente, estoy buscando mi primera oportunidad para unirme a un equipo de desarrollo y contribuir a la creación de videojuegos emocionantes.
+¡Bienvenido a mi rincón digital! Soy **Miguel Benavides**, un **desarrollador de juegos junior** con una pasión inmensa por dar vida a ideas creativas a través del código. Desde que era pequeño, los videojuegos han sido una fuente de inspiración constante, mi objetivo es contribuir a ese mundo mágico.
+
+Mi viaje en el desarrollo de juegos se centra principalmente en **Unity** y **C#**, donde disfruto explorando y construyendo sistemas de juego robustos y mecánicas divertidas. Me encanta el desafío de **resolver problemas complejos**, optimizar el rendimiento y ver cómo las piezas del código se unen para crear una experiencia fluida y envolvente.
+
+Me siento especialmente atraído por los proyectos que permiten la **experimentación de mecánicas de juego innovadoras** y aquellos que buscan **contar historias de maneras únicas** (ya sean narrativas profundas o a través del diseño de gameplay). Disfruto desde prototipar rápidamente ideas en game jams hasta pulir los detalles que hacen que un juego se sienta "bien".
+
+Actualmente, estoy buscando mi **primera oportunidad profesional** para unirme a un equipo apasionado y colaborativo. Estoy ansioso por aplicar mis habilidades, aprender de desarrolladores con experiencia y crecer dentro de una empresa que valora la creatividad y la calidad. ¡Soy un aprendiz rápido y estoy listo para sumergirme en nuevos desafíos!
 
 ---
 
 ## Mis Proyectos Destacados ✨
 
 Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada repositorio incluye detalles sobre mi rol, las tecnologías utilizadas y los desafíos que superé.
+
+### 🧙🏼‍♂️ [Lazy Sorcerer]
+* **Descripción:** Resultado de una GameJam Lazy Sorcerer es un juego casual de puzzles, 3D en Primera persona, donde eres un pequeño mago que debe organizar su casa ayudado con su magia antes que su mama llegue y se entere de su desorden.
+* **Tecnologías:** Unity, C#, NavMesh.
+* **Mi Rol:** Programador, mecanicas y documentacion.
+* [Enlace al Repositorio Lazy Sorcerer](https://github.com/santiagomr2708/Lazy-Sorcery-GameJam)
+* [🎮 ¡Juega aquí en Itch.io!](https://santi4go03.itch.io/lazy-sorcery)
+
+  ![8sexE2](https://github.com/user-attachments/assets/9c6a5881-dc18-4174-b3f1-c947cddfbc0d)
+
+
+### 👻 [Synergy]
+* **Descripción:** Resultado de una GameJam Synergy es un juego de puzzles y exploracion donde tu personaje quedo dividido,cuerpo y alma, y debes cambiar entre los dos para poder avanzar y resolver puzzles y finalmente poder unificarse.
+* **Tecnologías:** Unity, C#, shadders.
+* **Mi Rol:** Programador, mecanicas y shadders.
+* [Enlace al Repositorio del Synergy](https://github.com/Thingy25/GenJam1)
+* [🎮 ¡Juega aquí en Itch.io!](https://thingy25.itch.io/synergy)
+
+![hNd5Lk](https://github.com/user-attachments/assets/f13240b6-43e0-49ab-b0e0-27684f069e6f)
+
+
 
 ### 🎮 [Stampede]
 * **Descripción:** Un prototipo en el cual intentas esquivar y alimentar animales los mas rapido posible. Este proyecto me permitió profundizar en La diferentes formas de spawnear GameObjects, desde los animales hasta los projectiles (zanahorias) ademas de "destruir" los GameObjects para evitar sobrecargar el sistema.

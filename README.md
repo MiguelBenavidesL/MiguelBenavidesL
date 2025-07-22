@@ -20,6 +20,15 @@ Actualmente, estoy buscando mi **primera oportunidad profesional** para unirme a
 
 Aquí puedes explorar algunos de los proyectos en los que he trabajado. Cada repositorio incluye detalles sobre mi rol, las tecnologías utilizadas y los desafíos que superé.
 
+### 🧟 [ELARA]
+* **Descripción:** Es un videojuego de disparos en primera persona con ambientación postapocalíptica, centrado en la exploración, la estrategia y la supervivencia. Desarrollado en Unity, este proyecto combina elementos de acción con atmósferas detalladas y tensas. 
+* **Tecnologías:** Unity, C#, NavMesh, raycast.
+* **Mi Rol:** Programador, mecanicas y UI
+* [Enlace al Repositorio ELARA](https://github.com/garciaw602/Elara)
+* [🎮 ¡Juega aquí en Itch.io!](https://wilsongarcia.itch.io/elara)
+
+  ![Elara front](https://github.com/user-attachments/assets/c75a5a39-b80f-40eb-9fd5-2f5bdeb623fa)
+
 ### 🧙🏼‍♂️ [Lazy Sorcerer]
 * **Descripción:** Resultado de una GameJam Lazy Sorcerer es un juego casual de puzzles, 3D en Primera persona, donde eres un pequeño mago que debe organizar su casa ayudado con su magia antes que su mama llegue y se entere de su desorden.
 * **Tecnologías:** Unity, C#, NavMesh.

@@ -6,13 +6,11 @@
 
 ## Acerca de mí 🎮✨
 
-¡Bienvenido a mi rincón digital! Soy **Miguel Benavides**, un **desarrollador de juegos junior** con una pasión inmensa por dar vida a ideas creativas a través del código. Desde que era pequeño, los videojuegos han sido una fuente de inspiración constante, y ahora, mi objetivo es contribuir activamente a la creación de ese mundo mágico.
+¡Hola! Soy **Miguel Benavides**, desarrollador de videojuegos junior con experiencia en **Unity** y **C#**. Me apasiona crear mecánicas divertidas, resolver problemas técnicos y experimentar con ideas innovadoras para construir experiencias envolventes.
 
-Mi viaje en el desarrollo de juegos se centra principalmente en **Unity** y **C#**, donde disfruto explorando y construyendo sistemas de juego robustos y mecánicas divertidas. Me encanta el desafío de **resolver problemas complejos**, optimizar el rendimiento y ver cómo las piezas del código se unen para crear una experiencia fluida y envolvente.
+He participado en **game jams**, desarrollado prototipos y afinado sistemas de juego, siempre buscando ese equilibrio entre jugabilidad y narrativa. Me interesa especialmente trabajar en proyectos que desafíen lo convencional y cuenten historias de forma original.
 
-Me siento especialmente atraído por los proyectos que permiten la **experimentación de mecánicas de juego innovadoras** y aquellos que buscan **contar historias de maneras únicas** (ya sean narrativas profundas o a través del diseño de gameplay). Disfruto desde prototipar rápidamente ideas en game jams hasta pulir los detalles que hacen que un juego se sienta "bien".
-
-Actualmente, estoy buscando mi **primera oportunidad profesional** para unirme a un equipo apasionado y colaborativo. Estoy ansioso por aplicar mis habilidades, aprender de desarrolladores con experiencia y crecer dentro de una empresa que valora la creatividad y la calidad. ¡Soy un aprendiz rápido y estoy listo para sumergirme en nuevos desafíos!
+Actualmente busco mi **primera oportunidad profesional** para crecer junto a un equipo creativo. Me adapto rápido, tengo muchas ganas de aprender y estoy listo para aportar con energía y compromiso.
 
 ---
 
